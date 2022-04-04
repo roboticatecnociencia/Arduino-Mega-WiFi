@@ -1,7 +1,8 @@
 # Arduino Mega Wifi
 
-![](images/arduino-small.jpg)
-
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/arduino.jpg" width="450" title="hover text">
+</p>
 ## Funcionamiento 🚀
 
 Placa madre que incorpora un Arduino Mega 2560 + módulo WIFI ESP8266. Incluye un switch de conexión que permite la utilización de los modulos de la placa de forma conjunta o independiente. La incorporación de 62 Entradas/salidas digitales nos permite realizar proyectos que incorporen mayor cantidad de sensores.
@@ -36,7 +37,10 @@ _Para introducirnos en el uso de esta placa realizaremos tres proyectos, uno par
 
 _Como mencionamos anteriormente la placa se compone de dos modulos que pueden ser utilizados mediante la activaciòn de los jumper ubicados en la placa tal como se muestra en la imagen._
 
-
+<p align="center">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/1.png" width="250">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/2.png" width="190">
+</p>
 
 _La variación en el estado del jumper definirà el estado de la placa,  en la siguiente tabla se especifica la configuracion  para cada uso:_
 
@@ -146,10 +150,15 @@ Antes de programar debemos veríficar  que el entorno de desarrollo esté config
 En este caso el ide de arduino no incluye la placa que utilizaremos así que primero debemos realizar la instalación de ella.
 
 Primero nos dirigimos a las preferencias de arduino (archivo>preferencias) y se nos abrirá una ventana como la que vé a continuación. aquí debemos pegar el siguiente link en la sección "Additional Boards manager URLs" :
-
+"http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/3.png" width="800" title="hover text">
+</p>
 
 Le damos a "OK" y ahora podemos seleccionar la placa que utilizaremos en el proyecto
-
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/4.png" width="800" title="hover text">
+</p>
 
 ## Configuración IDE Arduino para utilizar Arduino Mega 2560
 
@@ -159,13 +168,27 @@ En este caso trabajaremos con la placa arduino mega 2560, debemos conectar la pl
 
 En este caso utilizaremos la placa arduino mega
 
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/5.png" width="800" title="hover text">
+</p>
+
 Ademas debemos seleccionar el puerto en el que trabajará la placa, para esto debemos conectar el arduino uno mediante usb y seleccionarlo de la siguiente manera:
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/6.png" width="800" title="hover text">
+</p>
 
 ## Agregar librería Memory Free
 
 Descargar la librería Memory free
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/8.png" width="800" title="hover text">
+</p>
+
 
 Copiamos la carpeta memoy free y debemos pegarla en la siguiente ruta Documents\Arduino\libraries.
 Luego corroboramos de la siguiente manera si quedó instalado.
 
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/9.png" width="800" title="hover text">
+</p>
 Ahora que terminamos la configuración del entorno arduino podemos desarrollar el proyecto.
