@@ -3,7 +3,7 @@
 <p align="started">
   <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/arduino.jpg" width="450" title="hover text">
 </p>
-## Funcionamiento 🚀
+### Funcionamiento 🚀
 
 Placa madre que incorpora un Arduino Mega 2560 + módulo WIFI ESP8266. Incluye un switch de conexión que permite la utilización de los modulos de la placa de forma conjunta o independiente. La incorporación de 62 Entradas/salidas digitales nos permite realizar proyectos que incorporen mayor cantidad de sensores.
 
