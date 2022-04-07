@@ -1,3 +1,13 @@
+# Instalación del software de arduino
+Antes de comenzar a trabajar con la placa debemos instalar el IDE de arduino, descargandolo del siguiente link:
+
+https://www.arduino.cc/en/software
+
+Elegimos el sistema operativo sobre el cual trabajaremos y procedemos a descargar (nos sugiere realizar una donación pero es voluntario).
+
+
+Una vez descargado solo debemos oprimir "Instalar" y una vez finalizado ya podremos seguir con la configuración de la placa.
+
 # Arduino Mega Wifi
 
 <p align="started">
