@@ -3,10 +3,22 @@ Antes de comenzar a trabajar con la placa debemos instalar el IDE de arduino, de
 
 https://www.arduino.cc/en/software
 
-Elegimos el sistema operativo sobre el cual trabajaremos y procedemos a descargar (nos sugiere realizar una donación pero es voluntario).
+Elegimos el sistema operativo sobre el cual trabajaremos en nuestro caso será windows así que elegimos la primera opción.
 
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/software.png" width="450" title="hover text">
+</p>
 
+Luego para poder descargar se nos sugiere realizar una donación, lo que es completamente voluntario en nuestro caso solo descargaremos (Just download)
+
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/justd.png" width="450" title="hover text">
+</p>
 Una vez descargado solo debemos oprimir "Instalar" y una vez finalizado ya podremos seguir con la configuración de la placa.
+
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/install.png" width="450" title="hover text">
+</p>
 
 # Arduino Mega Wifi
 
