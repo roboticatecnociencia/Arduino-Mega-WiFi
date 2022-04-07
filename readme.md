@@ -14,6 +14,7 @@ Luego para poder descargar se nos sugiere realizar una donación, lo que es comp
 <p align="started">
   <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/justd.png" width="450" title="hover text">
 </p>
+
 Una vez descargado solo debemos oprimir "Instalar" y una vez finalizado ya podremos seguir con la configuración de la placa.
 
 <p align="started">
