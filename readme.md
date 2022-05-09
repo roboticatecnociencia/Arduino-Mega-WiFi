@@ -1,9 +1,33 @@
+# Instalación del software de arduino
+Antes de comenzar a trabajar con la placa debemos instalar el IDE de arduino, descargandolo del siguiente link:
+
+https://www.arduino.cc/en/software
+
+Elegimos el sistema operativo sobre el cual trabajaremos en nuestro caso será windows así que elegimos la primera opción.
+
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/software.png" width="450" title="hover text">
+</p>
+
+Luego para poder descargar se nos sugiere realizar una donación, lo que es completamente voluntario en nuestro caso solo descargaremos (Just download)
+
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/justd.png" width="450" title="hover text">
+</p>
+
+Una vez descargado solo debemos oprimir "Instalar" y una vez finalizado ya podremos seguir con la configuración de la placa.
+
+<p align="started">
+  <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/install.png" width="450" title="hover text">
+</p>
+
 # Arduino Mega Wifi
 
 <p align="started">
   <img src="https://github.com/roboticatecnociencia/Arduino-Mega-WiFi/blob/main/images/arduino.jpg" width="450" title="hover text">
 </p>
-## Funcionamiento 🚀
+
+### Funcionamiento 🚀
 
 Placa madre que incorpora un Arduino Mega 2560 + módulo WIFI ESP8266. Incluye un switch de conexión que permite la utilización de los modulos de la placa de forma conjunta o independiente. La incorporación de 62 Entradas/salidas digitales nos permite realizar proyectos que incorporen mayor cantidad de sensores.
 
